@@ -2504,7 +2504,7 @@ function oc(e) {
     return ge(e) ? document.querySelector(e) : e
 }
 
-const ic = "/assets/Xiaomi_logo_2021.ce1488a5.svg";/*!
+const ic = "assets/Xiaomi_logo_2021.ce1488a5.svg";/*!
   * vue-router v4.1.3
   * (c) 2022 Eduardo San Martin Morote
   * @license MIT
